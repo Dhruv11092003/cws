@@ -34,7 +34,7 @@ The **CareerWise-AI Backend** is a high-performance API built with **FastAPI** t
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/careerwise-ai.git
+git clone https://github.com/Dhruv11092003/cws.git
 cd careerwise-ai/backend
 ````
 
